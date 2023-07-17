@@ -33,7 +33,7 @@ function ButtonDropdown({ lang }) {
                         className="border-b px-5 py-2"
                         onClick={() => (window.location.href = './cv/bertolani-camila-it.pdf')}
                     >
-                        <div className="w-full cursor-pointer">{lang.textPortuguese}</div>
+                        <div className="w-full cursor-pointer">{lang.textItaliano}</div>
                     </li>
                 </ul>
             </div>

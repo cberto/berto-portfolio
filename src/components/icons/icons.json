@@ -17,6 +17,10 @@
             "icon": "TypeScriptIcon"
         },
         {
+            "name": "Angular",
+            "icon": "AngularIcon"
+        },
+        {
             "name": "React.js",
             "icon": "ReactIcon"
         },
@@ -41,24 +45,20 @@
             "icon": "MongoDBIcon"
         },
         {
+            "name": "Postgresql",
+            "icon": "PostgresqlIcon"
+        },
+        {
+            "name": "NET",
+            "icon": "NETIcon"
+        },
+        {
             "name": "Python",
             "icon": "PythonIcon"
         },
         {
-            "name": "Flask",
-            "icon": "FlaskIcon"
-        },
-        {
             "name": "Postman",
             "icon": "PostmanIcon"
-        },
-        {
-            "name": "jQuery",
-            "icon": "JQueryIcon"
-        },
-        {
-            "name": "SASS",
-            "icon": "SassIcon"
         },
         {
             "name": "Bootstrap",
@@ -80,5 +80,6 @@
             "name": "GitHub",
             "icon": "GitHubIcon"
         }
+        
     ]
 }

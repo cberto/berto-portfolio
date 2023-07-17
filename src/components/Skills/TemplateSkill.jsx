@@ -10,17 +10,17 @@ import {
     ExpressIcon,
     MySQLIcon,
     MongoDBIcon,
-    JQueryIcon,
     ReactIcon,
-    SassIcon,
     TailwindIcon,
     MaterialUIIcon,
     GitHubIcon,
     GitIcon,
     PythonIcon,
-    FlaskIcon,
     SequelizeIcon,
     PostmanIcon,
+    AngularIcon,
+    PostgresqlIcon,
+    NETIcon
 } from '../../components';
 
 function TemplateSkill({ item }) {
@@ -34,17 +34,17 @@ function TemplateSkill({ item }) {
         ExpressIcon,
         MySQLIcon,
         MongoDBIcon,
-        JQueryIcon,
         ReactIcon,
-        SassIcon,
         TailwindIcon,
         MaterialUIIcon,
         GitHubIcon,
         GitIcon,
         PythonIcon,
-        FlaskIcon,
         SequelizeIcon,
         PostmanIcon,
+        AngularIcon,
+        PostgresqlIcon,
+        NETIcon
     };
     const IconComponent = icons[item.icon];
 

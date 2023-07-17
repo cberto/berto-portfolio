@@ -21,7 +21,7 @@ const SocialMedia = () => {
             </a>
             <a
                 className="app__social-buttons"
-                href="https://www.instagram.com/cberto/"
+                href="https://www.instagram.com/camibertolani/"
                 target="_blank"
                 rel="noreferrer"
             >

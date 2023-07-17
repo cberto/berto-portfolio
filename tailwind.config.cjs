@@ -22,6 +22,12 @@ module.exports = {
             colors: {
                 CustomBlack: '#182122',
             },
+            fontSize: {
+                '4xl': '2rem', // Ajusta este valor para cambiar el tamaño de los iconos
+            },
+            custom: {
+                blue: '#123456', // Reemplaza esto con tu color personalizado
+            },
         },
     },
     variants: {

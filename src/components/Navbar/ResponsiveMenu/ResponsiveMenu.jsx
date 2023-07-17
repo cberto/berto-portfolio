@@ -35,7 +35,7 @@ function ResposiveMenu({ lang, setToggle, setLanguage, linkedin }) {
                 <a href={linkedin} target="_blank" rel="noreferrer">
                     <LinkedInIcon color="#a66aed" width="2.1rem" height="2.1rem" />
                 </a>
-                <a href="https://www.instagram.com/cberto/" target="_blank" rel="noreferrer">
+                <a href="https://www.instagram.com/camibertolani/" target="_blank" rel="noreferrer">
                     <InstagramIcon color="#a66aed" width="2.1rem" height="2.1rem" />
                 </a>
             </div>
