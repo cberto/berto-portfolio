@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Camila Bertolani</h1>
+
+
 # Professional personal portfolio.
 
 | Tool            | Used to                                                       |
@@ -13,7 +17,7 @@
 
 👉 Clone the repository:
 
-https://github.com/cberto/
+https://github.com/cberto/berto-portfolio
 
 👉 Install npm packages:
 
@@ -22,7 +26,3 @@ https://github.com/cberto/
 👉 Run the app:
 
 `npm run dev`
-
-### Styling and Responsiveness
-
-The app's design system is based on TailwindCSS, it's fully responsive and should render properly on all devices.
