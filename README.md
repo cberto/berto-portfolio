@@ -26,7 +26,3 @@ https://github.com/cberto/berto-portfolio
 👉 Run the app:
 
 `npm run dev`
-
-### Styling and Responsiveness
-
-The app's design system is based on TailwindCSS, it's fully responsive and should render properly on all devices.
