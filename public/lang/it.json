@@ -1,0 +1,209 @@
+{
+    "navbar": {
+        "navlinks": {
+            "titles": [
+                "Home",
+                "Su di me",
+                 "Progetti",
+                 "Contatti"
+            ],
+            "href": [
+                "home",
+                "aboutme",
+                "experience",
+                "contact"
+            ]
+        },
+        "languages": {
+            "es": "Pagina in spagnolo",
+            "en": "Pagina in inglese",
+            "it": "Página in italiano"
+        }
+    },
+    "header": {
+        "typewriter": [
+            "Full Stack Developer",
+            "Desenvolvedor Frontend"
+        ],
+        "textBtnProjects": "Visualizza progetti",
+        "textBtnDownload": "Download CV",
+        "textSpanish": "Español",
+        "textEnglish": "English",
+        "textPortuguese": "Italiano"
+    },
+    "aboutme": {
+        "imageTexts": {
+            "text1": "Desarrollador  Frontend",
+            "text2": "Full Stack Developer"
+        },
+        "about": {
+            "title": "Sobre mim",
+            "paragraph1": "Sono un professionista creativo e proattivo con un forte impegno nell'apprendimento e nello sviluppo personale e professionale, mi piace la formazione e sono focalizzato sull'innovazione e sull'uso delle tecnologie emergenti per risolvere i problemi e raggiungere gli obiettivi",
+            "paragraph2": "Mi adatto bene ai cambiamenti e sono disposto ad assumermi responsabilità e sfide nell'organizzazione",
+            "paragraph3": "Mi impegno per la puntualità, il lavoro di squadra e l'etica professionale e sono sempre alla ricerca di modi per migliorare le mie competenze e contribuire al successo"
+        },
+        "formation": {
+            "title": "Formazione",
+            "formationDetails": [
+                {
+                    "name": "Fondamenti di hacking e difesa",
+                    "place": "Ekoparty Hackademy",
+                    "description": "Cybersecurity Fundamentals, Offensive Security & Attack Techniques, Ethical Hacking & Penetration Testing, Software Security & System Defense, Security Architecture & Engineering Security, Operations & Defensive Security, Information Security & Risk Management ",
+                    "year": "2022",
+                    "link": "https://ekoparty.org/hackademy/"
+                },
+                {
+                    "name": "Laurea in informatica (in corso)",
+                    "place": "Universidad nacional de Hurlingham",
+                    "description": "Acquisire conoscenze di programmazione, sistemi, reti e altro ancora.",
+                    "year": "2020",
+                    "link": "https://unahur.edu.ar/"
+                },
+                
+                {
+                    "name": "Sviluppo web avanzato",
+                    "place": "UTN (E-Learing UTN)",
+                    "description": "HTML, CSS, JavaScript avanzado",
+                    "year": "2019",
+                    "link": "https://sceu.frba.utn.edu.ar/e-learning/"
+                },
+                {
+                    "name": "Tirocini",
+                    "place": "Intituto técnico industrial San Judas Tadeo",
+                    "description": "200 ore di esperienza lavorativa e di stage in programmazione.",
+                    "year": "2019",
+                    "link": "https://www.sanjudastadeo.edu.ar/"
+                },
+                {
+                    "name": "Tecnico informatico personale e professionale",
+                    "place": "Intituto técnico industrial San Judas Tadeo",
+                    "description": "Acquisire conoscenze di programmazione, sistemi, reti e altro ancora.",
+                    "year": "2019",
+                    "link": "https://www.sanjudastadeo.edu.ar/"
+                }
+            ]
+        },
+        "experience": {
+            "title": "Experiencia",
+            "experienceDetails": [
+                {
+                    "name": "Software Engineer",
+                    "place": "CODES S.A",
+                    "description": " ",
+                    "year": "2020"
+                   
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "place": "Southern Horizon",
+                    "description": "",
+                    "year": "2021-2022"
+                },
+                
+                {
+                    "name": "Software Engineer",
+                    "place": "Santander Tecnología",
+                    "description": "HTML, CSS, JavaScript avanzado",
+                    "year": "2022-2023"
+                 
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "place": "IT Patagonia",
+                    "description": "",
+                    "year": "2022-2023"
+                }
+            ]
+        },
+        "skills": {
+            "title": "Competenze"
+        }
+    },
+    "work": {
+        "title": {
+            "text1": "Mio",
+            "text2": "Progetti"
+        },
+        "btnTitles": [
+            "Tutti",
+            "Frontend",
+            "Backend"
+        ],
+        "works": [
+            {
+                "title": "Argentum Online",
+                "technologies": [
+                    "Wollok"
+                ],
+                "description": "Argentum online",
+                "imageUrl": "./argentum-online.gif",
+                "tags": [
+                    "Backend"
+                ],
+                "projectLinkDemo": "https://game.wollok.org/game?git=https://github.com/cberto/ArgentumOnline-University",
+                "projectLinkGithub": "https://github.com/cberto/ArgentumOnline-University"
+            },
+            {
+                "title": "Little Red Riding Hood",
+                "technologies": [
+                    "Vuforia",
+                    "C#"
+                    
+                ],
+                "description": "Realizzato con la realtà aumentata",
+                "imageUrl": "./caperucita.jpg",
+                "tags": [
+                   
+                    "Backend"
+                ],
+                "projectLinkDemo": "https://user-images.githubusercontent.com/86743001/151670213-727678d8-ecf9-4fef-8325-1d1dc7403628.mp4",
+                "projectLinkGithub": "https://github.com/cberto/redRidingHood"
+            },
+            {
+                "title": "SUSHI TORI",
+                "technologies": [
+                    "HTML",
+                    "JavaScript",
+                    "CSS"
+                ],
+                "description": "Sushi Tori web app",
+                "imageUrl": "./sushi.png",
+                "tags": [
+                    "Frontend"
+                ],
+                "projectLinkDemo": "https://suhi-tori.netlify.app/",
+                "projectLinkGithub": "https://github.com/cberto/japanese-restaurant"
+            },
+            {
+                "title": "E-commerce 'Colections'",
+                "technologies": [
+                    "React"
+                   
+                ],
+                "description": "E-commerce ",
+                "imageUrl": "./ecommerce.png",
+                "tags": [
+                    "Frontend"
+                   
+                ],
+                "projectLinkDemo": "https://colections-ecommerce.netlify.app/",
+                "projectLinkGithub": "https://github.com/cberto/ecommerce-colection"
+            }
+           
+        ],
+        "titlesBtnCards": {
+            "text1": "Vista",
+            "text2": "Repository"
+        }
+    },
+    "contact": {
+        "title": "Parliamo!",
+        "input": {
+            "namePlaceholder": "Nome",
+            "descriptionPlaceholder": "Messaggio"
+        },
+        "btn": "Send",
+        "autorText": "Realizzato con ❤️ por Camila Bertolani"
+    },
+    "linkLinkedin": "https://www.linkedin.com/in/camila-bertolani/"
+}

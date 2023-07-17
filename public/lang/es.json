@@ -1,0 +1,210 @@
+{
+    "navbar": {
+        "navlinks": {
+            "titles": [
+                "Inicio",
+                "Sobre mí",
+                "Proyectos",
+                "Contacto"
+            ],
+            "href": [
+                "home",
+                "aboutme",
+                "contact"
+            ]
+        },
+        "languages": {
+            "es": "Página en español",
+            "en": "Página en inglés",
+            "it": "Página en italiano"
+        }
+    },
+    "header": {
+        "typewriter": [
+            "Full Stack Developer",
+            "Desarrollador Frontend"
+        ],
+        "textBtnProjects": "Ver Proyectos",
+        "textBtnDownload": "Descargar CV",
+        "textSpanish": "Español",
+        "textEnglish": "Inglés",
+        "textPortuguese": "Portugués"
+    },
+    "aboutme": {
+        "imageTexts": {
+            "text1": "Desarrollador Frontend",
+            "text2": "Full Stack Developer"
+        },
+        "about": {
+            "title": "Sobre mí",
+            "paragraph1": " Soy una profesional creativa y proactiva con un fuerte compromiso con el aprendizaje y el desarrollo personal y profesional.Me gusta capacitarme y estoy enfocada en la innovación y el uso de tecnologías emergentes para resolver problemas y alcanzar objetivos.",
+            "paragraph2": " Me adapto bien al cambio y estoy dispuesta a asumir responsabilidades y desafíos en la organización.",
+            "paragraph3": "Estoy comprometida con la puntualidad, el trabajo en equipo y la ética profesional, y siempre estoy buscando maneras de mejorar mis habilidades y contribuir al éxito"
+        },
+        "formation": {
+            "title": "Formación",
+            "formationDetails": [
+                {
+                    "name": "Fundamentals of hacking and Defense",
+                    "place": "Ekoparty Hackademy",
+                    "description": "Cybersecurity Fundamentals, Offensive Security & Attack Techniques, Ethical Hacking & Penetration Testing, Software Security & System Defense, Security Architecture & Engineering Security, Operations & Defensive Security, Information Security & Risk Management ",
+                    "year": "2022",
+                    "link": "https://ekoparty.org/hackademy/"
+                },
+                {
+                    "name": "Lic. en informática (en curso) ",
+                    "place": "Universidad nacional de Hurlingham",
+                    "description": "Adquiri conocimientos de programación, sistemas, redes y más.",
+                    "year": "2020",
+                    "link": "https://unahur.edu.ar/"
+                },
+                
+                {
+                    "name": "Desarrollo web avanzado",
+                    "place": "UTN (E-Learing UTN)",
+                    "description": "HTML, CSS, JavaScript avanzado",
+                    "year": "2019",
+                    "link": "https://sceu.frba.utn.edu.ar/e-learning/"
+                },
+                {
+                    "name": "Practicas Profesionales",
+                    "place": "Intituto técnico industrial San Judas Tadeo",
+                    "description": "200 hs de prácticas profesiones y pasantía en programación ",
+                    "year": "2019",
+                    "link": "https://www.sanjudastadeo.edu.ar/"
+                },
+                {
+                    "name": "Técnico Informatico personal y profesional",
+                    "place": "Intituto técnico industrial San Judas Tadeo",
+                    "description": "Adquiri conocimientos de programación, sistemas, redes y más.",
+                    "year": "2019",
+                    "link": "https://www.sanjudastadeo.edu.ar/"
+                }
+            ]
+        },
+        "experience": {
+            "title": "Experiencia",
+            "experienceDetails": [
+                {
+                    "name": "Software Engineer",
+                    "place": "CODES S.A",
+                    "description": " Mi participación consistió en contribuir al desarrollo tanto back-end como front-end de la web, utilizando tecnologías como HTML, CSS, JavaScript, .NET/C# y SQL Server Management. Esto incluía el desarrollo de nuevas funcionalidades, el mantenimiento de las existentes y la garantía de su óptima funcionalidad. Trabajé principalmente en el front-end y en el back-end, asegurando una perfecta integración entre ambos componentes. Con mi trabajo, contribuí al éxito de los proyectos ofreciendo soluciones de software de alta calidad que cumplían los requisitos de los clientes y añadían valor a sus negocios. ",
+                    "year": "2020"
+                   
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "place": "Southern Horizon",
+                    "description": "",
+                    "year": "2021-2022"
+                },
+                
+                {
+                    "name": "Software Engineer",
+                    "place": "Santander Tecnología",
+                    "description": "HTML, CSS, JavaScript avanzado",
+                    "year": "2022-2023"
+                 
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "place": "IT Patagonia",
+                    "description": "200 hours of internships and programming internships ",
+                    "year": "2022-2023"
+                }
+            ]
+        },
+
+
+
+        "skills": {
+            "title": "Habilidades"
+        }
+    },
+    "work": {
+        "title": {
+            "text1": "Mis",
+            "text2": "Proyectos"
+        },
+        "btnTitles": [
+            "Todos",
+            "Frontend",
+            "Backend"
+        ],
+        "works": [
+            {
+                "title": "Argentum online",
+                "technologies": [
+                    "Wollok"
+                ],
+                "description": " Juego Argentum online",
+                "imageUrl": "./argentum-online.gif",
+                "tags": [
+                    "Backend"
+                ],
+                "projectLinkDemo": "https://game.wollok.org/game?git=https://github.com/cberto/ArgentumOnline-University",
+                "projectLinkGithub": "https://github.com/cberto/ArgentumOnline-University"
+            },
+            {
+                "title": "Caperucita roja ",
+                "technologies": [
+                    "Vuforia",
+                    "C#"
+                    
+                ],
+                "description": "Realizado con realidad aumentada",
+                "imageUrl": "./caperucita.jpg",
+                "tags": [
+                   
+                    "Backend"
+                ],
+                "projectLinkDemo": "https://user-images.githubusercontent.com/86743001/151670213-727678d8-ecf9-4fef-8325-1d1dc7403628.mp4",
+                "projectLinkGithub": "https://github.com/cberto/redRidingHood"
+            },
+            {
+                "title": "SUSHI TORI",
+                "technologies": [
+                    "HTML",
+                    "JavaScript",
+                    "CSS"
+                ],
+                "description": "Sushi Tori web app",
+                "imageUrl": "./sushi.png",
+                "tags": [
+                    "Frontend"
+                ],
+                "projectLinkDemo": "https://suhi-tori.netlify.app/",
+                "projectLinkGithub": "https://github.com/cberto/japanese-restaurant"
+            },
+            {
+                "title": "E-commerce 'Colections'",
+                "technologies": [
+                    "React"
+                   
+                ],
+                "description": "E-commerce ",
+                "imageUrl": "./ecommerce.png",
+                "tags": [
+                    "Frontend"
+                   
+                ],
+                "projectLinkDemo": "https://colections-ecommerce.netlify.app/",
+                "projectLinkGithub": "https://github.com/cberto/ecommerce-colection"
+            }
+        ],
+        "titlesBtnCards": {
+            "text1": "Ver",
+            "text2": "Repositorio"
+        }
+    },
+    "contact": {
+        "title": "¡Hablemos!",
+        "input": {
+            "namePlaceholder": "Nombre",
+            "descriptionPlaceholder": "Mensaje"
+        },
+        "btn": "Enviar",
+        "autorText": "Hecho con ❤️ por Camila Bertolani"
+    },
+    "linkLinkedin": "https://www.linkedin.com/in/camila-bertolani/"
+}
