@@ -61,4 +61,14 @@
       background-position: 100% 50%;
     }
   }
+
+  @media (max-width: 640px) {
+    .app__container {
+      @apply mt-[3rem];
+    }
+
+    .head-text {
+      @apply text-2xl md:text-[1.5rem];
+    }
+  }
 }
