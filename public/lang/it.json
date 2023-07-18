@@ -45,28 +45,8 @@
         "formation": {
             "title": "Formazione",
             "formationDetails": [
-                {
-                    "name": "Fondamenti di hacking e difesa",
-                    "place": "Ekoparty Hackademy",
-                    "description": "Cybersecurity Fundamentals, Offensive Security & Attack Techniques, Ethical Hacking & Penetration Testing, Software Security & System Defense, Security Architecture & Engineering Security, Operations & Defensive Security, Information Security & Risk Management ",
-                    "year": "2022",
-                    "link": "https://ekoparty.org/hackademy/"
-                },
-                {
-                    "name": "Laurea in informatica (in corso)",
-                    "place": "Universidad nacional de Hurlingham",
-                    "description": "Acquisire conoscenze di programmazione, sistemi, reti e altro ancora.",
-                    "year": "2020",
-                    "link": "https://unahur.edu.ar/"
-                },
-                
-                {
-                    "name": "Sviluppo web avanzato",
-                    "place": "UTN (E-Learing UTN)",
-                    "description": "HTML, CSS, JavaScript avanzado",
-                    "year": "2019",
-                    "link": "https://sceu.frba.utn.edu.ar/e-learning/"
-                },
+               
+               
                 {
                     "name": "Tirocini",
                     "place": "Intituto técnico industrial San Judas Tadeo",
@@ -80,6 +60,28 @@
                     "description": "Acquisire conoscenze di programmazione, sistemi, reti e altro ancora.",
                     "year": "2019",
                     "link": "https://www.sanjudastadeo.edu.ar/"
+                },
+                {
+                    "name": "Sviluppo web avanzato",
+                    "place": "UTN (E-Learing UTN)",
+                    "description": "HTML, CSS, JavaScript avanzado",
+                    "year": "2019",
+                    "link": "https://sceu.frba.utn.edu.ar/e-learning/"
+                },
+                
+                {
+                    "name": "Laurea in informatica (in corso)",
+                    "place": "Universidad nacional de Hurlingham",
+                    "description": "Acquisire conoscenze di programmazione, sistemi, reti e altro ancora.",
+                    "year": "2020",
+                    "link": "https://unahur.edu.ar/"
+                },
+                {
+                    "name": "Fondamenti di hacking e difesa",
+                    "place": "Ekoparty Hackademy",
+                    "description": "Cybersecurity Fundamentals, Offensive Security & Attack Techniques, Ethical Hacking & Penetration Testing, Software Security & System Defense, Security Architecture & Engineering Security, Operations & Defensive Security, Information Security & Risk Management ",
+                    "year": "2022",
+                    "link": "https://ekoparty.org/hackademy/"
                 }
             ]
         },
@@ -130,6 +132,27 @@
             "Backend"
         ],
         "works": [
+             {
+                "title": "Altri progetti",
+                "technologies": [
+                    "Angular",
+                    "Node js",
+                    ".NET",
+                    "React",
+                    "Next js"
+
+                   
+                ],
+                "description": "Altri progetti",
+                "imageUrl": "./github.png",
+                "tags": [
+                    "Frontend",
+                    "Backend"
+                   
+                ],
+                
+                "projectLinkGithub": "https://github.com/cberto/"
+            },
             {
                 "title": "Argentum Online",
                 "technologies": [
@@ -188,6 +211,21 @@
                 ],
                 "projectLinkDemo": "https://colections-ecommerce.netlify.app/",
                 "projectLinkGithub": "https://github.com/cberto/ecommerce-colection"
+            },
+            {
+                "title": "Equipment",
+                "technologies": [
+                    "Angular"
+                   
+                ],
+                "description": "Equipment web app ",
+                "imageUrl": "./equipament.png",
+                "tags": [
+                    "Frontend"
+                   
+                ],
+                "projectLinkDemo": "https://type-equipment.netlify.app/",
+                "projectLinkGithub": "https://github.com/cberto/equipment"
             }
            
         ],
